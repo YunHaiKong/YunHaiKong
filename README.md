@@ -23,15 +23,12 @@ Here are some ideas to get you started:
   [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](https://linweiqian.github.io/linweiqianBlog/)
   [![Shell](https://img.shields.io/badge/-Shell-4EC422?logo=Shell&logoColor=FF7043)](https://linweiqian.github.io/linweiqianBlog/)
   [![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)](https://linweiqian.github.io/linweiqianBlog/)
-  [![Webpack](https://img.shields.io/badge/-webpack-2B3A42?logo=webpack&logoColor=75AFCC)](https://linweiqian.github.io/linweiqianBlog/)
-  [![NPM](https://img.shields.io/badge/-NPM-2875E3?logo=npm&logoColor=029137)](https://linweiqian.github.io/linweiqianBlog/)
   [![Postman](https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&logoColor=FC8019)](https://linweiqian.github.io/linweiqianBlog/)
   [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)](https://linweiqian.github.io/linweiqianBlog/)
-  [![Jenkins](https://img.shields.io/badge/-Jenkins-F6C915?logo=jenkins&logoColor=F16061)](https://linweiqian.github.io/linweiqianBlog/)
+
 
 - 💻 I work using:
   [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://linweiqian.github.io/linweiqianBlog/)
-  [![GoLand](https://img.shields.io/badge/-GoLand-000?logo=goland&logoColor=00ACC1)](https://linweiqian.github.io/linweiqianBlog/)
   [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)](https://linweiqian.github.io/linweiqianBlog/)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://linweiqian.github.io/linweiqianBlog/)
   [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)](https://linweiqian.github.io/linweiqianBlog/)
@@ -56,7 +53,7 @@ Here are some ideas to get you started:
 <div align="center" > <img height="137px" src="https://github-readme-stats.vercel.app/api?username=linweiqian&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 -->
 
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linweiqian&layout=compact" height="137px" /></span><span><img height="137px" src="https://github-readme-stats.vercel.app/api?username=linweiqian&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </span>
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunHaiKong&layout=compact" height="137px" /></span><span><img height="137px" src="https://github-readme-stats.vercel.app/api?username=linweiqian&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </span>
 
 
 
